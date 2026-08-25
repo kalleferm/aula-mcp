@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/Casperjuel/aula-mcp/compare/v1.1.0...v1.1.1) (2026-08-25)
+
+
+### Bug Fixes
+
+* **auth,meebook:** support MitID hardware kodeviser + fix dup identities & Meebook unilogin ([#42](https://github.com/Casperjuel/aula-mcp/issues/42)) ([1c37582](https://github.com/Casperjuel/aula-mcp/commit/1c3758220839dee0a9da259c115859d0b1e2a52f))
+* **cli:** tell the user to open the MitID app while waiting ([#67](https://github.com/Casperjuel/aula-mcp/issues/67)) ([5a22968](https://github.com/Casperjuel/aula-mcp/commit/5a22968e7864f7d4dcd499a74701059d9ec14acf))
+
 ## [1.1.0](https://github.com/Casperjuel/aula-mcp/compare/v1.0.1...v1.1.0) (2026-08-14)
 
 

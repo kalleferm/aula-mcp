@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.4.0](https://github.com/Casperjuel/aula-mcp/compare/v1.3.0...v1.4.0) (2026-08-25)
+
+
+### Features
+
+* **presence:** report a child sick, or take it back ([#59](https://github.com/Casperjuel/aula-mcp/issues/59)) ([f7e5ebf](https://github.com/Casperjuel/aula-mcp/commit/f7e5ebf267d08926c9860e5f085d3f20bf67848d))
+
+
+### Bug Fixes
+
+* correct AulaProfile field names, and probe a widget the profile has ([#68](https://github.com/Casperjuel/aula-mcp/issues/68)) ([d7a006b](https://github.com/Casperjuel/aula-mcp/commit/d7a006be333af2255be78c7aab2f88cd599e05ea))
+
 ## [1.3.0](https://github.com/Casperjuel/aula-mcp/compare/v1.2.1...v1.3.0) (2026-08-14)
 
 
